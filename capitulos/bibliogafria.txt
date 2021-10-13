@@ -1,1 +1,0 @@
-"Chaco, S. and Straub, B. Pro Git. Apress."
